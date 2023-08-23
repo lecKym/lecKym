@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Penetratin Testing.
 - 💞️ I’m looking to collaborate onanything   in Tech.
-- 📫 How to reach me ...
+- 📫 How to reach me ...twitter @kimkim
 
 <!---
 lecKym/lecKym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
